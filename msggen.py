@@ -23,7 +23,9 @@ sentence2 = [', where I joined a fantastic team, ',
 sentence3 =['I have been working on solutions to move us all to a better place. ',
             'sparing no efford to ensure customer satisfaction. ',
             'I have been involved in IoT projects - with an edge. ',
-            'I have worked on cutting edge Smart City solutions. ']
+            'we are using AI to put us miles ahead of the competition. ',
+            'I have helped moving all our products to the blockchain. ',
+            'I have worked on cutting edge Smart City solutions. ']            
 
 pride_levels = ['I am proud ',
                 'I am super excited ',
@@ -33,11 +35,16 @@ pride_levels = ['I am proud ',
 
 sentence4 = ['to have worked on ',
              'to have been part of ',
-             'to have contributed to ']
+             'to have been touched by ',
+             'to have nurtured ',
+             'to have contributed to ']             
 
 value_added = ['the amazing ',
                'the fantastic ',
                'the equilibristilicious ',
+               'the magnificent ',
+               'the astounding ',
+               'the awesome ',
                'the incredible ']
 #task
 
@@ -45,7 +52,9 @@ more_value_added_bs =[' that will change everything about the way we do business
                       ' that is a real game changer for our business segment.',
                       ' that will introduce a whole new paradigm for our users.',
                       ' that will radically change the way we address climate challenges in our time.',
-                      ' that will introduce cost-savers for the entire food chain within our segment.']
+                      ' that will conquer the world in a way never seen before.',
+                      ' that will increase social and economic growth by magnitudes.',
+                      ' that will introduce cost-savers for the entire food chain within our segment.']                      
 
 sentence5 = [' I am therefore delighted to present the results ',
              ' I am very much looking forward to demonstrate our products ',
